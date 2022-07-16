@@ -1,0 +1,19 @@
+Lights Out
+by Chris Taylor
+
+created for Deep Dive
+@ Actualize Coding Bootcamp
+
+---IMAGES---
+
+Background grid by Peter Ward
+Licensed under Creative Commons: Public Domain CCO
+
+Start Screen images created by
+ME!!! (Obviously. You can see my artistic talent)
+
+
+---Sound Effects---
+
+Sound Effects from OpenGameArt.org
+Licensed under Creative Commons: Public Domain CCO
